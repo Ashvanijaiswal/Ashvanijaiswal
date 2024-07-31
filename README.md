@@ -32,7 +32,7 @@ Developed a real-time data processing system using Apache Airflow and Spark. Ena
 
 ### [CreackingTheCodingInterview](https://github.com/Ashvanijaiswal/CreackingTheCodingInterview)
 
-### [CreackingTheCodingInterview](https://github.com/Ashvanijaiswal/Space_invader_game)
+### [Space Invader Game ](https://github.com/Ashvanijaiswal/Space_invader_game)
 Desktop game, which I have build during python learning
 ### [CreackingTheCodingInterview](https://github.com/Ashvanijaiswal/MobileApplication)
 Mobile application, which I have build during python learning
